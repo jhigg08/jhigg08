@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jake Higginson
 
-<!--
-**jhigg08/jhigg08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Photo](./Headshot.jpg)
 
-Here are some ideas to get you started:
+## Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am a passionate computer science student with an interest in analytics. I enjoy tackling complex problems and coming up with unique solutions.
+
+### Fun Fact
+
+Did you know? I am a big history buff. I love watching all kinds of documentaries.
+
+### Resume
+
+You can view my resume [here](./JakeHigginsonResume.docx).
+
+---
+
+## 🤳 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahigginson/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/jhigg08)
